@@ -104,7 +104,6 @@ export default {
 <style lang="stylus" rel="stylesheet/stylus">
 @import '../../common/stylus/mixin'
 
-
 .header
   position relative
   background rgba(7,17,27,0.5)
